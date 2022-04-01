@@ -28,4 +28,10 @@ public class SeleniumTest {
 
 	}
 	
+	@Test
+	public void elementsUI2() {
+		System.out.println("elementsUI2");
+
+	}
+	
 }
